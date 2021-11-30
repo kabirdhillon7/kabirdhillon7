@@ -8,8 +8,7 @@
 kabirdhillon7/kabirdhillon7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-
+![This is an image](https://github.com/kabirdhillon7/kabirdhillon7/blob/main/Ocean_Kabir%20Dhillon.jpeg)
 
 # 👋🏼 Hello
 My name is Kabir Dhillon, and I'm a software developer. You can find me on [![LinkedIn][1.2]][1].
