@@ -19,6 +19,6 @@ My name is Kabir Dhillon, and I'm a software developer. You can find me on [![Li
 <!-- Links to your social media accounts -->
 [1]: https://www.linkedin.com/in/kabirdhillon/
 
-# 📈 GitHub stats
+## 📈 GitHub stats
 ![Kabir's GitHub stats](https://github-readme-stats.vercel.app/api?username=kabirdhillon7&theme=prussian_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kabirdhillon7&theme=prussian_)](https://github.com/kabirdhillon7/github-readme-stats)
