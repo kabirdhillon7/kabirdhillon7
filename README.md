@@ -9,6 +9,8 @@ kabirdhillon7/kabirdhillon7 is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
+
+
 # 👋🏼 Hello
 My name is Kabir Dhillon, and I'm a software developer. You can find me on [![LinkedIn][1.2]][1].
 
@@ -18,5 +20,5 @@ My name is Kabir Dhillon, and I'm a software developer. You can find me on [![Li
 <!-- Links to your social media accounts -->
 [1]: https://www.linkedin.com/in/kabirdhillon/
 
-# GitHub stats
+# 📈 GitHub stats
 ![Kabir's GitHub stats](https://github-readme-stats.vercel.app/api?username=kabirdhillon7&theme=dark&show_icons=true)
