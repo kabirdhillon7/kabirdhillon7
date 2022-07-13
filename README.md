@@ -35,6 +35,6 @@ My name is Kabir Dhillon, and I'm a software developer. You can find me on [![Li
 ![](https://img.shields.io/badge/-R_Studio-informational?style=flat&logo=rstudio&logoColor=white&color=147EFB)
 ![](https://img.shields.io/badge/-Figma-informational?style=flat&logo=figma&logoColor=white&color=147EFB)
 
-# 📈 GitHub stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kabirdhillon7&theme=prussian_)](https://github.com/kabirdhillon7/github-readme-stats)
-![Kabir's GitHub stats](https://github-readme-stats.vercel.app/api?username=kabirdhillon7&theme=prussian_icons=true)
+# 📈 GitHub Stats
+[![Kabir's GitHub stats](https://github-readme-stats.vercel.app/api?username=kabirdhillon7)](https://github.com/kabirdhillon7/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kabirdhillon7)](https://github.com/kabirdhillon7/github-readme-stats)
