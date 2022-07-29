@@ -25,6 +25,7 @@ My name is Kabir Dhillon, and I'm a software developer. You can find me on [![Li
 ![](https://img.shields.io/badge/-C++-informational?style=flat&logo=C++&logoColor=white&color=147EFB)
 ![](https://img.shields.io/badge/-Java-informational?style=flat&logo=java&logoColor=white&color=147EFB)
 ![](https://img.shields.io/badge/-Python-informational?style=flat&logo=python&logoColor=white&color=147EFB)
+![](https://img.shields.io/badge/-Kotlin-informational?style=flat&logo=linux&logoColor=white&color=147EFB)
 ![](https://img.shields.io/badge/-Linux-informational?style=flat&logo=linux&logoColor=white&color=147EFB)
 
 ## Editors & Tools
