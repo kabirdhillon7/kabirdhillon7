@@ -8,10 +8,14 @@
 kabirdhillon7/kabirdhillon7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![This is an image](https://github.com/kabirdhillon7/kabirdhillon7/blob/main/Ocean_Kabir%20Dhillon.jpeg)
+<!--- Color 1FBFFF for Gif --->
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/ycHHc7DURcqa6Cw7IV/giphy.gif" width="300"/>
+</div>
 
 # 👋🏼 Hello
-My name is Kabir Dhillon, and I'm a software developer. You can find me on [![LinkedIn][1.2]][1].
+My name is Kabir Dhillon, and I'm a software developer in the Bay Area. You can find me on [![LinkedIn][1.2]][1].
 
 <!-- Icons -->
 [1.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
