@@ -41,5 +41,5 @@ My name is Kabir Dhillon, and I'm a software developer in the Bay Area. You can 
 ![](https://img.shields.io/badge/-Figma-informational?style=flat&logo=figma&logoColor=white&color=147EFB)
 
 # 📈 GitHub Stats
-[![Kabir's GitHub stats](https://github-readme-stats.vercel.app/api?username=kabirdhillon7&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kabirdhillon7&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
+![Kabir's GitHub stats](https://github-readme-stats.vercel.app/api?username=kabirdhillon7&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kabirdhillon7&langs_count=3)
