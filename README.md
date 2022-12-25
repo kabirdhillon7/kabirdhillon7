@@ -42,4 +42,4 @@ My name is Kabir Dhillon, and I'm a software developer in the Bay Area. You can 
 
 # 📈 GitHub Stats
 [![Kabir's GitHub stats](https://github-readme-stats.vercel.app/api?username=kabirdhillon7)](https://github.com/kabirdhillon7/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kabirdhillon7)](https://github.com/kabirdhillon7/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kabirdhillon7&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
