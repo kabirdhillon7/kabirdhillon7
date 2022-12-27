@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 <!--- Color 1FBFFF for Gif --->
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/ycHHc7DURcqa6Cw7IV/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/IKCndLAmQw6CzXKhIq/giphy.gif" width="400"/>
 </div>
 
 # 👋🏼 Hello
