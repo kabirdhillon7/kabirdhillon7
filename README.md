@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **iOS Development**
 
-- ⚡️ Fun fact **I love creating time-lapse videos of LEGO builds and going on hikes**
+- ⚡️ Fun fact **I love creating time-lapse videos of LEGO builds, working out at the gym, and going on hikes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
