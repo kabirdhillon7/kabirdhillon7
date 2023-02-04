@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [a FireBase Messenger iOS App](https://github.com/kabirdhillon7/Messenger) and [updating a Flix iOS App](https://github.com/kabirdhillon7/Flix)
 
-- 🌱 I’m currently learning **new iOS Dev Practices, Objective C, & Javascript**
+- 🌱 I’m currently learning **new iOS Dev Practices & Objective C**
 
 - 💬 Ask me about **iOS Development**
 
