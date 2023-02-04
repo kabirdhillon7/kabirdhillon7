@@ -1,8 +1,3 @@
-<!--- Gif Color 1FBFFF for Gif 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/IKCndLAmQw6CzXKhIq/giphy.gif" width="400"/>
-</div> --->
-
 <h1 align="center">Hi 👋🏼, I'm Kabir</h1>
 
 - 🔭 I’m currently working on [a FireBase Messenger iOS App](https://github.com/kabirdhillon7/Messenger) and [updating a Flix iOS App](https://github.com/kabirdhillon7/Flix)
