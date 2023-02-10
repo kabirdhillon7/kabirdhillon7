@@ -33,6 +33,6 @@
 
 <h3 align="left">GitHub Stats:</h3>
 
+<p><img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kabirdhillon7&show_icons=true&hide_border=true&locale=en" alt="kabirdhillon7" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=kabirdhillon7&show_icons=true&hide_border=true&locale=en" alt="kabirdhillon7" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kabirdhillon7&show_icons=true&locale=en&layout=compact" alt="kabirdhillon7" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=kabirdhillon7&show_icons=true&locale=en&layout=compact" alt="kabirdhillon7" /></p>
