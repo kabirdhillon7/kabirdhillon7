@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋🏼, I'm Kabir</h1>
 
-- 🔭 I’m currently working on [a FireBase Messenger iOS App](https://github.com/kabirdhillon7/Messenger) and [updating a Flix iOS App](https://github.com/kabirdhillon7/Flix)
+- 🔭 I’m currently working on [updating a Flix iOS App](https://github.com/kabirdhillon7/Flix) using MVVM design
 
 - 🌱 I’m currently learning **new iOS Dev Practices &  SwiftUI**
 
