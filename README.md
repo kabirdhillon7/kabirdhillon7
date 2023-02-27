@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋🏼, I'm Kabir</h1>
 
-- 🔭 I’m currently working on a [Connect 4 Python game](https://github.com/kabirdhillon7/Connect-4/) and [updating a Flix iOS App](https://github.com/kabirdhillon7/Flix)
+- 🔭 I’m currently working on an iOS (Sorting Hat App)[https://github.com/kabirdhillon7/Sorting-Hat]
 
 - 🌱 I’m currently learning **new iOS Dev Practices &  SwiftUI**
 
