@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋🏼, I'm Kabir</h1>
 
-- 🔭 I’m currently working on an iOS (Sorting Hat App)[https://github.com/kabirdhillon7/Sorting-Hat]
+- 🔭 I’m currently working on an iOS [Sorting Hat App](https://github.com/kabirdhillon7/Sorting-Hat)
 
 - 🌱 I’m currently learning **new iOS Dev Practices &  SwiftUI**
 
