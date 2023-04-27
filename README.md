@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋🏼, I'm Kabir</h1>
 
-- 🔭 I’m currently working on an iOS [Sorting Hat App](https://github.com/kabirdhillon7/Sorting-Hat)
+- 🔭 I’m currently working on an [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui)
 
-- 🌱 I’m currently learning **new iOS Dev Practices &  SwiftUI**
+- 🌱 I’m currently learning **new iOS Dev Practices & SwiftUI**
 
 - 💬 Ask me about **iOS Development**
 
