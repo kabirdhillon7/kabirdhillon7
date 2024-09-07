@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on [TipSavvy](https://github.com/kabirdhillon7/TipSavvy)
 - 🌱 I’m currently learning **more about SwiftUI**
 - 💬 Ask me about **iOS Development**
-- 📝 I regularly write articles on [Swiftly Forward](https://kabirdhillon.substack.com)
+- 📝 I write articles on [Swiftly Forward](https://kabirdhillon.substack.com)
 - ⚡️ Fun fact: **I love creating time-lapse videos of LEGO builds, working out at the gym, and going on hikes**
 
 <h3 align="left">Connect with me:</h3>
