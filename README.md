@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋🏼, I'm Kabir</h1>
 <h3 align="center">iOS Engineer from the Bay Area 🌁</h3>
 
-- 🔭 I’m currently working on [TipSavvy](https://github.com/kabirdhillon7/TipSavvy)
+- 🔭 I’m currently working on [TipSavvy](https://github.com/kabirdhillon7/TipSavvy) & EventScan
 - 🌱 I’m currently learning **more about SwiftUI**
 - 💬 Ask me about **iOS Development**
 - 📝 I write articles on [Swiftly Forward](https://kabirdhillon.substack.com)
