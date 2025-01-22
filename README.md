@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋🏼, I'm Kabir</h1>
 <h3 align="center">iOS Engineer from the Bay Area 🌁</h3>
 
-- 🔭 I’m currently working on building Wheatpaste
+- 🔭 I’m currently working on building [Wheatpaste](https://apps.apple.com/us/app/wheatpaste-flyer-to-calendar/id6670695585)
 - 🌱 I’m currently learning **more about SwiftUI**
 - 💬 Ask me about **iOS Development**
 - 📝 I write articles on [Swiftly Forward](https://kabirdhillon.substack.com)
