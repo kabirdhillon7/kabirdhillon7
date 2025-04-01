@@ -4,7 +4,6 @@
 - 🔭 I’m currently working on building [Wheatpaste](https://apps.apple.com/us/app/wheatpaste-flyer-to-calendar/id6670695585)
 - 🌱 I’m currently learning **more about SwiftUI**
 - 💬 Ask me about **iOS Development**
-- 📝 I write articles on [Swiftly Forward](https://kabirdhillon.substack.com)
 - ⚡️ Fun fact: **I love creating time-lapse videos of LEGO builds, working out at the gym, and going on hikes**
 
 <h3 align="left">Connect with me:</h3>
